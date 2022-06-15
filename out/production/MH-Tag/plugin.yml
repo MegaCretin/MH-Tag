@@ -1,0 +1,10 @@
+name: MH-Tag
+main: fr.megacretin.htag.Main
+version: 1.0
+author: Herlox, MegaCretin
+depend: [PlaceholderAPI]
+commands:
+  tag:
+    permission: tag.set
+  tags:
+    description: menu des tags
